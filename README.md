@@ -4,11 +4,11 @@
   
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F6F6&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Tuan+Anh+—+Generative+AI+Engineer+%26+LLM+Innovator;Tập+trung+vào+Fine-Tuning%2C+RAG%2C+%26+Multi-Agent+Workflows;Xây+dựng+Hệ+thống+Phần+mềm+Thông+minh%2C+Mở+rộng" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F6F6&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Duc+Tran—+Generative+AI+Engineer+%26+LLM+Innovator;Tập+trung+vào+Fine-Tuning%2C+RAG%2C+%26+Multi-Agent+Workflows;Xây+dựng+Hệ+thống+Phần+mềm+Thông+minh%2C+Mở+rộng" alt="Typing SVG" />
 
   <br/>
   
-  <a href="mailto:[Email của bạn]">
+  <a href="mailto:[ductrandanh06@gmail.com]">
     <img src="https://img.shields.io/badge/Contact_Me-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 
